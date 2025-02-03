@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfe0844c-1a05-451f-8fc1-72eabc56d78a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SingTillTheEnd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Options Rect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Play Rect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Quit Rect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/red_x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyrics/Found in You.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyrics/Goodness of God.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyrics/Holy Forever.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyrics/This is Amazing Grace.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyrics/Trust in God.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyrics/What a Beautiful Name.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr/Found in You.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr/Goodness Of God.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr/Holy Forever.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr/This is Amazing Grace.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr/Trust in God.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mr/What a Beautiful Name.mp3" afterDir="false" />
+    <list default="true" id="cfe0844c-1a05-451f-8fc1-72eabc56d78a" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +19,33 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NoneOneNine"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NoneOneNine/SingTilltheEnd",
+    "accountId": "341d0330-f750-48ee-b44e-f6113fc80da7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -55,16 +55,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joshi/PycharmProjects/SingTillTheEnd/assets&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.stt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/joshi/PycharmProjects/SingTillTheEnd/assets"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\joshi\PycharmProjects\SingTillTheEnd\assets" />
@@ -148,6 +148,15 @@
       <option name="presentableId" value="Default" />
       <updated>1737769053500</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1738565443704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738565443704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
